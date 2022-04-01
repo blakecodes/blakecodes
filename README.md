@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Blake (aka Eazy)</h1>
+<h1 align="center">Hi 👋, I'm Blake</h1>
 <h3 align="center">I'm a developer passionate about building tools that improve the lives of those around me.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blakecodes&label=Profile%20views&color=0e75b6&style=flat" alt="blakecodes" /> </p>
@@ -16,8 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/blake-connally-460913135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="blake-connally-460913135" height="30" width="40" /></a>
-<a href="https://instagram.com/eazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eazy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/blake connally" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="blake connally" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
