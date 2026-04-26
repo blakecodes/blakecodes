@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Blake</h1>
 <h3 align="center">I'm a developer passionate about building tools that improve the lives of those around me.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blakecodes&label=Profile%20views&color=0e75b6&style=flat" alt="blakecodes" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blakecodes" alt="blakecodes" /></a> </p>
-
 - 🔭 I’m currently working on [building software to help with drug and alcohol abuse recovery](https://myrecoverylink.com/)
 
 - 💬 Ask me about **c#, angular**
